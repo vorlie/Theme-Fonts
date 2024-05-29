@@ -1,0 +1,42 @@
+{
+    "spec": 1,
+    "name": "Helvetica Neue",
+    "previewText": "Helvetica Neue is a versatile sans-serif typeface known for its clean, modern design and widespread use in corporate branding and digital media.",
+    "main": {
+        "ABCGintoNord-ExtraBold": "https://github.com/vorlie/Theme-Fonts/raw/main/fonts/HelveticaNeue/HelveticaNeue-Bold.otf?raw=1",
+
+        "ggsans-Bold": "https://github.com/vorlie/Theme-Fonts/raw/main/fonts/HelveticaNeue/HelveticaNeue-Bold.otf?raw=1",
+
+        "ggsans-BoldItalic": "https://github.com/vorlie/Theme-Fonts/raw/main/fonts/HelveticaNeue/HelveticaNeue-BoldItalic.otf?raw=1",
+
+        "ggsans-ExtraBold": "https://github.com/vorlie/Theme-Fonts/raw/main/fontsHelveticaNeue//HelveticaNeue-Bold.otf?raw=1",
+
+        "ggsans-ExtraBoldItalic": "https://github.com/vorlie/Theme-Fonts/raw/main/fonts/HelveticaNeue/HelveticaNeue-BoldItalic.otf?raw=1",
+
+        "ggsans-Medium": "https://github.com/vorlie/Theme-Fonts/raw/main/fonts/HelveticaNeue/HelveticaNeue-Medium.otf?raw=1",
+
+        "ggsans-MediumItalic": "https://github.com/vorlie/Theme-Fonts/raw/main/fonts/HelveticaNeue/HelveticaNeue-MediumItalic.otf?raw=1",
+
+        "ggsans-Normal": "https://github.com/vorlie/Theme-Fonts/raw/main/fonts/HelveticaNeue/HelveticaNeue-Roman.otf?raw=1",
+
+        "ggsans-NormalItalic": "https://github.com/vorlie/Theme-Fonts/raw/main/fonts/HelveticaNeue/HelveticaNeue-Roman.otf?raw=1",
+
+        "ggsans-Semibold": "https://github.com/vorlie/Theme-Fonts/raw/main/fontsHelveticaNeue//HelveticaNeue-Medium.otf?raw=1",
+
+        "ggsans-SemiboldItalic": "https://github.com/vorlie/Theme-Fonts/raw/main/fonts/HelveticaNeue/HelveticaNeue-MediumItalic.otf?raw=1",
+
+        "NotoSans-Bold": "https://github.com/vorlie/Theme-Fonts/raw/main/fonts/HelveticaNeue/HelveticaNeue-Bold.otf?raw=1",
+
+        "NotoSans-ExtraBold": "https://github.com/vorlie/Theme-Fonts/raw/main/fonts/HelveticaNeue/HelveticaNeue-Bold.otf?raw=1",
+        
+        "NotoSans-Medium": "https://github.com/vorlie/Theme-Fonts/raw/main/fonts/HelveticaNeue/HelveticaNeue-Medium.otf?raw=1",
+
+        "NotoSans-Normal": "https://github.com/vorlie/Theme-Fonts/raw/main/fonts/HelveticaNeue/HelveticaNeue-Roman.otf?raw=1",
+
+        "NotoSans-NormalItalic": "https://github.com/vorlie/Theme-Fonts/raw/main/fonts/HelveticaNeue/HelveticaNeue-Roman.otf?raw=1",
+
+        "NotoSans-Semibold": "https://github.com/vorlie/Theme-Fonts/raw/main/fonts/HelveticaNeue/HelveticaNeue-Medium.otf?raw=1",
+
+        "SourceCodePro-Semibold": "https://github.com/vorlie/Theme-Fonts/raw/main/fonts/HelveticaNeue/HelveticaNeue-Medium.otf?raw=1"
+    }
+}
