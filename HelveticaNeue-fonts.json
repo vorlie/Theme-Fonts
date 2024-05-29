@@ -13,17 +13,17 @@
 
         "ggsans-ExtraBoldItalic": "https://github.com/vorlie/Theme-Fonts/raw/main/fonts/HelveticaNeue/HelveticaNeue-BlackItalic.otf?raw=1",
 
-        "ggsans-Medium": "https://github.com/vorlie/Theme-Fonts/raw/main/fonts/HelveticaNeue/HelveticaNeue-Medium.otf?raw=1",
+        "ggsans-Medium": "https://github.com/vorlie/Theme-Fonts/raw/main/fonts/HelveticaNeue/HelveticaNeue-Light.otf?raw=1",
 
-        "ggsans-MediumItalic": "https://github.com/vorlie/Theme-Fonts/raw/main/fonts/HelveticaNeue/HelveticaNeue-MediumItalic.otf?raw=1",
+        "ggsans-MediumItalic": "https://github.com/vorlie/Theme-Fonts/raw/main/fonts/HelveticaNeue/HelveticaNeue-LightItalic.otf?raw=1",
 
         "ggsans-Normal": "https://github.com/vorlie/Theme-Fonts/raw/main/fonts/HelveticaNeue/HelveticaNeue-Light.otf?raw=1",
 
         "ggsans-NormalItalic": "https://github.com/vorlie/Theme-Fonts/raw/main/fonts/HelveticaNeue/HelveticaNeue-LightItalic.otf?raw=1",
 
-        "ggsans-Semibold": "https://github.com/vorlie/Theme-Fonts/raw/main/fontsHelveticaNeue//HelveticaNeue-Medium.otf?raw=1",
+        "ggsans-Semibold": "https://github.com/vorlie/Theme-Fonts/raw/main/fontsHelveticaNeue//HelveticaNeue-Light.otf?raw=1",
 
-        "ggsans-SemiboldItalic": "https://github.com/vorlie/Theme-Fonts/raw/main/fonts/HelveticaNeue/HelveticaNeue-MediumItalic.otf?raw=1",
+        "ggsans-SemiboldItalic": "https://github.com/vorlie/Theme-Fonts/raw/main/fonts/HelveticaNeue/HelveticaNeue-LightItalic.otf?raw=1",
 
         "NotoSans-Bold": "https://github.com/vorlie/Theme-Fonts/raw/main/fonts/HelveticaNeue/HelveticaNeue-Bold.otf?raw=1",
 
