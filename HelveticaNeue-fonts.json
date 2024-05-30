@@ -3,40 +3,40 @@
     "name": "Helvetica Neue",
     "previewText": "Helvetica Neue is a versatile sans-serif typeface known for its clean, modern design and widespread use in corporate branding and digital media.",
     "main": {
-        "ABCGintoNord-ExtraBold": "https://github.com/vorlie/Theme-Fonts/raw/main/fonts/HelveticaNeue/HelveticaNeue-Bold.otf?raw=1",
+        "ABCGintoNord-ExtraBold": "https://vorlie.vercel.app/HelveticaNeue/HelveticaNeue-Bold.otf",
 
-        "ggsans-Bold": "https://github.com/vorlie/Theme-Fonts/raw/main/fonts/HelveticaNeue/HelveticaNeue-Bold.otf?raw=1",
+        "ggsans-Bold": "https://vorlie.vercel.app/HelveticaNeue/HelveticaNeue-Bold.otf",
 
-        "ggsans-BoldItalic": "https://github.com/vorlie/Theme-Fonts/raw/main/fonts/HelveticaNeue/HelveticaNeue-BoldItalic.otf?raw=1",
+        "ggsans-BoldItalic": "https://vorlie.vercel.app/HelveticaNeue/HelveticaNeue-BoldItalic.otf",
 
-        "ggsans-ExtraBold": "https://github.com/vorlie/Theme-Fonts/raw/main/fontsHelveticaNeue//HelveticaNeue-Black.otf?raw=1",
+        "ggsans-ExtraBold": "https://github.com/vorlie/Theme-Fonts/raw/main/fontsHelveticaNeue//HelveticaNeue-Black.otf",
 
-        "ggsans-ExtraBoldItalic": "https://github.com/vorlie/Theme-Fonts/raw/main/fonts/HelveticaNeue/HelveticaNeue-BlackItalic.otf?raw=1",
+        "ggsans-ExtraBoldItalic": "https://vorlie.vercel.app/HelveticaNeue/HelveticaNeue-BlackItalic.otf",
 
-        "ggsans-Medium": "https://github.com/vorlie/Theme-Fonts/raw/main/fonts/HelveticaNeue/HelveticaNeue-Roman.otf?raw=1",
+        "ggsans-Medium": "https://vorlie.vercel.app/HelveticaNeue/HelveticaNeue-Roman.otf",
 
-        "ggsans-MediumItalic": "https://github.com/vorlie/Theme-Fonts/raw/main/fonts/HelveticaNeue/HelveticaNeue-Roman.otf?raw=1",
+        "ggsans-MediumItalic": "https://vorlie.vercel.app/HelveticaNeue/HelveticaNeue-Roman.otf",
 
-        "ggsans-Normal": "https://github.com/vorlie/Theme-Fonts/raw/main/fonts/HelveticaNeue/HelveticaNeue-Roman.otf?raw=1",
+        "ggsans-Normal": "https://vorlie.vercel.app/HelveticaNeue/HelveticaNeue-Roman.otf",
 
-        "ggsans-NormalItalic": "https://github.com/vorlie/Theme-Fonts/raw/main/fonts/HelveticaNeue/HelveticaNeue-Roman.otf?raw=1",
+        "ggsans-NormalItalic": "https://vorlie.vercel.app/HelveticaNeue/HelveticaNeue-Roman.otf",
 
-        "ggsans-Semibold": "https://github.com/vorlie/Theme-Fonts/raw/main/fontsHelveticaNeue//HelveticaNeue-Roman.otf?raw=1",
+        "ggsans-Semibold": "https://github.com/vorlie/Theme-Fonts/raw/main/fontsHelveticaNeue//HelveticaNeue-Roman.otf",
 
-        "ggsans-SemiboldItalic": "https://github.com/vorlie/Theme-Fonts/raw/main/fonts/HelveticaNeue/HelveticaNeue-Roman.otf?raw=1",
+        "ggsans-SemiboldItalic": "https://vorlie.vercel.app/HelveticaNeue/HelveticaNeue-Roman.otf",
 
-        "NotoSans-Bold": "https://github.com/vorlie/Theme-Fonts/raw/main/fonts/HelveticaNeue/HelveticaNeue-Bold.otf?raw=1",
+        "NotoSans-Bold": "https://vorlie.vercel.app/HelveticaNeue/HelveticaNeue-Bold.otf",
 
-        "NotoSans-ExtraBold": "https://github.com/vorlie/Theme-Fonts/raw/main/fonts/HelveticaNeue/HelveticaNeue-Bold.otf?raw=1",
+        "NotoSans-ExtraBold": "https://vorlie.vercel.app/HelveticaNeue/HelveticaNeue-Bold.otf",
         
-        "NotoSans-Medium": "https://github.com/vorlie/Theme-Fonts/raw/main/fonts/HelveticaNeue/HelveticaNeue-Medium.otf?raw=1",
+        "NotoSans-Medium": "https://vorlie.vercel.app/HelveticaNeue/HelveticaNeue-Medium.otf",
 
-        "NotoSans-Normal": "https://github.com/vorlie/Theme-Fonts/raw/main/fonts/HelveticaNeue/HelveticaNeue-Roman.otf?raw=1",
+        "NotoSans-Normal": "https://vorlie.vercel.app/HelveticaNeue/HelveticaNeue-Roman.otf",
 
-        "NotoSans-NormalItalic": "https://github.com/vorlie/Theme-Fonts/raw/main/fonts/HelveticaNeue/HelveticaNeue-Roman.otf?raw=1",
+        "NotoSans-NormalItalic": "https://vorlie.vercel.app/HelveticaNeue/HelveticaNeue-Roman.otf",
 
-        "NotoSans-Semibold": "https://github.com/vorlie/Theme-Fonts/raw/main/fonts/HelveticaNeue/HelveticaNeue-Medium.otf?raw=1",
+        "NotoSans-Semibold": "https://vorlie.vercel.app/HelveticaNeue/HelveticaNeue-Medium.otf",
 
-        "SourceCodePro-Semibold": "https://github.com/vorlie/Theme-Fonts/raw/main/fonts/HelveticaNeue/HelveticaNeue-Medium.otf?raw=1"
+        "SourceCodePro-Semibold": "https://vorlie.vercel.app/HelveticaNeue/HelveticaNeue-Medium.otf"
     }
 }
